@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "Ratespiel/src",
         "Primzahlen/src",
         "MeinErstesProjekt/src",
         "LinearGleichungsSystem/src",
         "For460/src",
         "DeutschePost/src",
         "Bruch/src",
-        "Ratespiel/src"
+        "Medienverwaltung/src"
     ]
 }
